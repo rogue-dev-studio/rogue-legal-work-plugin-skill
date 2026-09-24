@@ -4,7 +4,7 @@
 
 In-house legal workflows for contract review against playbooks, NDA triage with GREEN/YELLOW/RED ratings, compliance briefings, and vendor checks. Use when the user invokes /review-contract, /triage-nda, /legal-risk-assessment, or /vendor-check for organisation-standard legal analysis.
 
-- Market: https://rogue-dev-studio.github.io/rogue-market-agent/
+- Asset Store: https://rogue-dev-studio.github.io/rogue-asset-store/
 - Skill id: `legal-work-plugin`
 
 ## Install
